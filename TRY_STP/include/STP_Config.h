@@ -1,0 +1,17 @@
+#ifndef  STP_CONFIG_H
+#define  STP_CONFIG_H
+
+
+
+
+#define STP_SERIAL_DATA     GPIOA,PIN0
+#define STP_STOR_DATA       GPIOA,PIN1
+#define STP_SHIFT_DATA      GPIOA,PIN2
+
+#define STP_SERIAL_DATA_1     GPIOA,PIN3
+#define STP_STOR_DATA_1      GPIOA,PIN4
+#define STP_SHIFT_DATA_1     GPIOA,PIN5
+
+
+
+#endif
